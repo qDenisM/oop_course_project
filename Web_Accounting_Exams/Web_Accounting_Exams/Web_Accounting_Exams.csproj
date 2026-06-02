@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.17.1" />
+    <PackageReference Include="MaterialDesignThemes" Version="5.2.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MailKit" Version="4.3.1" />
+    <PackageReference Include="MimeKit" Version="4.3.1" />
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
+    <PackageReference Include="Tesseract" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="tessdata\*.traineddata">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <Target Name="CopyNativeLibraries" AfterTargets="ResolveReferences">
+    <PropertyGroup>
+      <TesseractPackagePath Condition="'$(NuGetPackageRoot)' != ''">$(NuGetPackageRoot)tesseract\5.2.0</TesseractPackagePath>
+      <TesseractPackagePath Condition="'$(NuGetPackageRoot)' == ''">$(UserProfile)\.nuget\packages\tesseract\5.2.0</TesseractPackagePath>
+      <NativeLibsPath>$(TesseractPackagePath)\runtimes\win-x64\native</NativeLibsPath>
+    </PropertyGroup>
+    
+    <Message Text="Поиск нативных библиотек Tesseract в: $(NativeLibsPath)" Importance="high" />
+    <Message Text="NuGetPackageRoot: $(NuGetPackageRoot)" Importance="high" />
+    
+    <ItemGroup Condition="Exists('$(NativeLibsPath)')">
+      <NativeLibs Include="$(NativeLibsPath)\*.*" />
+    </ItemGroup>
+    
+    <Copy SourceFiles="@(NativeLibs)" DestinationFolder="$(OutputPath)" SkipUnchangedFiles="true" Condition="@(NativeLibs->Count()) > 0" />
+    <Message Text="Скопировано нативных библиотек: @(NativeLibs->Count())" Importance="high" Condition="@(NativeLibs->Count()) > 0" />
+    <Warning Text="Нативные библиотеки Tesseract не найдены в $(NativeLibsPath). OCR может не работать." Condition="@(NativeLibs->Count()) == 0" />
+  </Target>
+
+</Project>

@@ -1,0 +1,765 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\services\\ocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\services\\ocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\universitymanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\universitymanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\universityeditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\universityeditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\universityeditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\universityeditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\subjectmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\subjectmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\subjecteditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\subjecteditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\specialitymanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\specialitymanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\specialityeditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\specialityeditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\schedulemanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\schedulemanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\scheduleeditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\scheduleeditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\newapplicationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\newapplicationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\exammanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\exammanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\exameditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\exameditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\controls\\customslider.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\controls\\customslider.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\certificateuploaddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\certificateuploaddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\converters\\booleantostatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\converters\\booleantostatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\services\\universitymatchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\services\\universitymatchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\examresultmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\examresultmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\universitymanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\universitymanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\converters\\scoredisplayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\converters\\scoredisplayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\schedulemanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\schedulemanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\converters\\booleantocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\converters\\booleantocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\applicantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\applicantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\views\\exammanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\views\\exammanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\converters\\certificatestatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\converters\\certificatestatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\viewmodels\\exammanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\viewmodels\\exammanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\helpers\\inputvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\helpers\\inputvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\converters\\certificatetypeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\converters\\certificatetypeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|c:\\users\\denis\\desktop\\oop-course\\web_accounting_exams\\web_accounting_exams\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB54505-087B-4E27-B3EA-F18070266835}|Web_Accounting_Exams\\Web_Accounting_Exams.csproj|solutionrelative:web_accounting_exams\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\EmailService.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Services\\EmailService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T19:33:54.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniversityEditDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\UniversityEditDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\UniversityEditDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\UniversityEditDialog.xaml.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\UniversityEditDialog.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGUAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:22:48.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversityManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\UniversityManagementWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\UniversityManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\UniversityManagementWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\UniversityManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:23:29.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\RegisterWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:21:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:52:39.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OCRService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\OCRService.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Services\\OCRService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\OCRService.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Services\\OCRService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:21:20.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UniversityEditDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\UniversityEditDialog.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\UniversityEditDialog.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\UniversityEditDialog.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\UniversityEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:22:46.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\AssemblyInfo.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:18:47.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubjectManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\SubjectManagementWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\SubjectManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\SubjectManagementWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\SubjectManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:22:44.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubjectEditDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\SubjectEditDialog.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\SubjectEditDialog.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\SubjectEditDialog.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\SubjectEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:22:42.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpecialityManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\SpecialityManagementWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\SpecialityManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\SpecialityManagementWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\SpecialityManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:22:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpecialityEditDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\SpecialityEditDialog.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\SpecialityEditDialog.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\SpecialityEditDialog.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\SpecialityEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:22:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScheduleManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ScheduleManagementWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\ScheduleManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ScheduleManagementWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\ScheduleManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:22:12.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScheduleEditDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ScheduleEditDialog.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\ScheduleEditDialog.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ScheduleEditDialog.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\ScheduleEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:21:54.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewApplicationDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\NewApplicationDialog.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\NewApplicationDialog.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\NewApplicationDialog.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\NewApplicationDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:21:18.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\MainWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:21:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\LoginWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:21:14.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InputDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\InputDialog.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\InputDialog.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\InputDialog.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\InputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:21:05.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgotPasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ForgotPasswordWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\ForgotPasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ForgotPasswordWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\ForgotPasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:21:03.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ExamManagementWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\ExamManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ExamManagementWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\ExamManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:20:44.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExamEditDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ExamEditDialog.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\ExamEditDialog.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ExamEditDialog.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\ExamEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:20:42.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAANoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:20:38.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomSlider.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Controls\\CustomSlider.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Controls\\CustomSlider.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Controls\\CustomSlider.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Controls\\CustomSlider.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:19:17.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CertificateUploadDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\CertificateUploadDialog.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\CertificateUploadDialog.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\CertificateUploadDialog.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\CertificateUploadDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:19:14.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DashboardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\DashboardWindow.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\DashboardWindow.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\DashboardWindow.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\DashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T11:19:30.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\App.xaml",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\App.xaml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\App.xaml",
+              "RelativeToolTip": "Web_Accounting_Exams\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-27T09:02:51.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BooleanToStatusConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\BooleanToStatusConverter.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Converters\\BooleanToStatusConverter.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\BooleanToStatusConverter.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Converters\\BooleanToStatusConverter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:53:26.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UniversityMatchingService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\UniversityMatchingService.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Services\\UniversityMatchingService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\UniversityMatchingService.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Services\\UniversityMatchingService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:23:30.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExamResultManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\ExamResultManagementViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\ExamResultManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\ExamResultManagementViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\ExamResultManagementViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:20:46.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\DashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\DashboardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\DashboardWindow.xaml.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\DashboardWindow.xaml.cs",
+              "ViewState": "AgIAAO8IAAAAAAAAAAAAAPcIAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:19:32.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAABsCAAAAAAAAAAAuwCgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:19:19.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UniversityManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\UniversityManagementViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\UniversityManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\UniversityManagementViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\UniversityManagementViewModel.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwFQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:23:16.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\SettingsViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\SettingsViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\SettingsViewModel.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAANIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:22:25.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScoreDisplayConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\ScoreDisplayConverter.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Converters\\ScoreDisplayConverter.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\ScoreDisplayConverter.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Converters\\ScoreDisplayConverter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:22:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScheduleManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\ScheduleManagementViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\ScheduleManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\ScheduleManagementViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\ScheduleManagementViewModel.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:21:56.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:21:43.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:21:07.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BooleanToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\BooleanToColorConverter.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Converters\\BooleanToColorConverter.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\BooleanToColorConverter.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Converters\\BooleanToColorConverter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:18:55.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicantViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\ApplicantViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\ApplicantViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\ApplicantViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\ApplicantViewModel.cs",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAAAM8BAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:18:24.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAAKYBAAAAAAAAAAAAALMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:18:09.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ExamManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\ExamManagementViewModel.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\ViewModels\\ExamManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\ViewModels\\ExamManagementViewModel.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\ViewModels\\ExamManagementViewModel.cs",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAAANABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:53:42.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CertificateStatusConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\CertificateStatusConverter.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Converters\\CertificateStatusConverter.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\CertificateStatusConverter.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Converters\\CertificateStatusConverter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:53:17.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExamManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ExamManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Views\\ExamManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Views\\ExamManagementWindow.xaml.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Views\\ExamManagementWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:52:05.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InputValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Helpers\\InputValidationHelper.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Helpers\\InputValidationHelper.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Helpers\\InputValidationHelper.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Helpers\\InputValidationHelper.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAABIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:52:33.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CertificateTypeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\CertificateTypeConverter.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Converters\\CertificateTypeConverter.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Converters\\CertificateTypeConverter.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Converters\\CertificateTypeConverter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:53:13.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:52:15.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Web_Accounting_Exams\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\OOP-course\\Web_Accounting_Exams\\Web_Accounting_Exams\\Models\\Exam.cs",
+              "RelativeToolTip": "Web_Accounting_Exams\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:51:38.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

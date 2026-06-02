@@ -1,0 +1,39 @@
+<Window x:Class="Web_Accounting_Exams.Views.SubjectEditDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Редактирование предмета" Height="350" Width="400"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Информация о предмете" 
+                   FontSize="20" FontWeight="Bold" Margin="0,0,0,20"/>
+
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Название предмета:" FontSize="14" FontWeight="SemiBold" Margin="0,0,0,5"/>
+            <ComboBox x:Name="SubjectComboBox" Height="40" Margin="0,0,0,15"
+                      materialDesign:HintAssist.Hint="Выберите предмет"/>
+
+            <TextBlock Text="Минимальный балл:" FontSize="14" FontWeight="SemiBold" Margin="0,0,0,5"/>
+            <TextBox x:Name="MinScoreTextBox" Height="40" Margin="0,0,0,15"/>
+
+            <CheckBox x:Name="IsRequiredCheckBox" Content="Обязательный предмет" 
+                      Margin="0,15,0,0" IsChecked="True"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+            <Button Content="Отмена" IsCancel="True" Width="100" Height="40" Margin="0,0,10,0"
+                    Style="{StaticResource MaterialDesignOutlinedButton}"/>
+            <Button Content="Сохранить" IsDefault="True" Width="120" Height="40"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Background="#667eea" Click="SaveButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
+

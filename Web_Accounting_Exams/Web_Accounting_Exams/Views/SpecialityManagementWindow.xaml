@@ -1,0 +1,50 @@
+<Window x:Class="Web_Accounting_Exams.Views.SpecialityManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Управление специальностями" Height="700" Width="1000"
+        WindowStartupLocation="CenterOwner">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" x:Name="TitleTextBlock" Text="Управление специальностями" 
+                   FontSize="24" FontWeight="Bold" Margin="0,0,0,20"/>
+
+        <DataGrid Grid.Row="1" x:Name="SpecialitiesDataGrid" 
+                  AutoGenerateColumns="False" 
+                  CanUserAddRows="False"
+                  SelectionMode="Extended"
+                  Margin="0,0,0,20">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn Header="Выбрать" Binding="{Binding IsSelected}" Width="80"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding Speciality.Name}" Width="*"/>
+                <DataGridTextColumn Header="Код" Binding="{Binding Speciality.Code}" Width="150"/>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Speciality.Description}" Width="*"/>
+                <DataGridTextColumn Header="Бюджетные места" Binding="{Binding Speciality.BudgetPlaces}" Width="120"/>
+                <DataGridTextColumn Header="Платные места" Binding="{Binding Speciality.PaidPlaces}" Width="120"/>
+                <DataGridTextColumn Header="Дата создания" Binding="{Binding Speciality.CreatedAt, StringFormat='{}{0:dd.MM.yyyy}'}" Width="120"/>
+                <DataGridCheckBoxColumn Header="Активна" Binding="{Binding Speciality.IsActive}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Добавить" Width="120" Height="40" Margin="0,0,10,0"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Background="#667eea" Click="AddButton_Click"/>
+            <Button Content="Редактировать" Width="120" Height="40" Margin="0,0,10,0"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Background="#00B894" Click="EditButton_Click"/>
+            <Button Content="Управление предметами" Width="180" Height="40" Margin="0,0,10,0"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Background="#764ba2" Click="ManageSubjectsButton_Click"/>
+            <Button Content="Удалить" Width="120" Height="40"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Background="#E74C3C" Click="DeleteButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
+

@@ -1,0 +1,345 @@
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.exe
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.deps.json
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.runtimeconfig.json
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.pdb
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams_MarkupCompile.cache
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams_MarkupCompile.lref
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.g.resources
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.AssemblyInfoInputs.cache
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.AssemblyInfo.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.csproj.CoreCompileInputs.cache
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.sourcelink.json
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\refint\Web_Accounting_Exams.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.pdb
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.genruntimeconfig.cache
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\ref\Web_Accounting_Exams.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.csproj.AssemblyReference.cache
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\App.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Acco.93F93AEB.Up2Date
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\DashboardWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\DashboardWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\InputDialog.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\InputDialog.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\MailKit.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\MimeKit.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\CertificateUploadDialog.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ExamEditDialog.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ExamManagementWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\NewApplicationDialog.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ScheduleEditDialog.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ScheduleManagementWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SpecialityEditDialog.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SpecialityManagementWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SubjectEditDialog.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SubjectManagementWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\UniversityEditDialog.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\UniversityManagementWindow.baml
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\CertificateUploadDialog.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ExamEditDialog.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ExamManagementWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\NewApplicationDialog.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ScheduleEditDialog.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ScheduleManagementWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SpecialityEditDialog.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SpecialityManagementWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SubjectEditDialog.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SubjectManagementWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\UniversityEditDialog.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\UniversityManagementWindow.g.cs
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\qdenni\OneDrive\Рабочий стол\projects\course_projects\oop_course_project\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.exe
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.deps.json
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.runtimeconfig.json
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Web_Accounting_Exams.pdb
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\MailKit.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\MimeKit.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\CertificateUploadDialog.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ExamEditDialog.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ExamManagementWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\InputDialog.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\NewApplicationDialog.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ScheduleEditDialog.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ScheduleManagementWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SpecialityEditDialog.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SpecialityManagementWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SubjectEditDialog.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SubjectManagementWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\UniversityEditDialog.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\UniversityManagementWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\DashboardWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\CertificateUploadDialog.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ExamEditDialog.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ExamManagementWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\InputDialog.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\NewApplicationDialog.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ScheduleEditDialog.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\ScheduleManagementWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SpecialityEditDialog.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SpecialityManagementWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SubjectEditDialog.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\SubjectManagementWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\UniversityEditDialog.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Views\UniversityManagementWindow.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams_MarkupCompile.cache
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams_MarkupCompile.lref
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\App.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\DashboardWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.g.resources
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.AssemblyInfo.cs
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Acco.93F93AEB.Up2Date
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\refint\Web_Accounting_Exams.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.pdb
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\Web_Accounting_Exams.genruntimeconfig.cache
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\obj\Debug\net8.0-windows\ref\Web_Accounting_Exams.dll
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tessdata\eng.traineddata
+C:\Users\Denis\Desktop\OOP-course\Web_Accounting_Exams\Web_Accounting_Exams\bin\Debug\net8.0-windows\tessdata\rus.traineddata

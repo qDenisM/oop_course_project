@@ -1,0 +1,45 @@
+<Window x:Class="Web_Accounting_Exams.Views.NewApplicationDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Подача заявки на экзамен" Height="500" Width="600"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Выберите экзамен и расписание" 
+                   FontSize="20" FontWeight="Bold" Margin="0,0,0,20"/>
+
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Экзамен:" FontSize="14" FontWeight="SemiBold" Margin="0,0,0,10"/>
+            <ComboBox x:Name="ExamComboBox" 
+                      materialDesign:HintAssist.Hint="Выберите экзамен"
+                      Height="40" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Расписание:" FontSize="14" FontWeight="SemiBold" Margin="0,0,0,10"/>
+            <ComboBox x:Name="ScheduleComboBox" 
+                      materialDesign:HintAssist.Hint="Выберите дату и время"
+                      Height="40" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Примечания (необязательно):" FontSize="14" FontWeight="SemiBold" Margin="0,0,0,10"/>
+            <TextBox x:Name="NotesTextBox" 
+                     materialDesign:HintAssist.Hint="Дополнительная информация"
+                     Height="80" TextWrapping="Wrap" AcceptsReturn="True"
+                     VerticalScrollBarVisibility="Auto" Margin="0,0,0,20"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Отмена" IsCancel="True" Width="100" Height="40" Margin="0,0,10,0"
+                    Style="{StaticResource MaterialDesignOutlinedButton}"/>
+            <Button Content="Подать заявку" IsDefault="True" Width="150" Height="40"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Background="#667eea" Click="SubmitButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
